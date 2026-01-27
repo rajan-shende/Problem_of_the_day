@@ -16,3 +16,6 @@ def get_dupes(in_list):
 
 
 get_dupes(l1)
+
+
+#trying go improve this
