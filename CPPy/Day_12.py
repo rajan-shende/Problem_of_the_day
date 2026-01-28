@@ -1,3 +1,4 @@
+# ALways try to imporve the versions
 # Strings are anagram OR not 
 
 str1 = "silent"
